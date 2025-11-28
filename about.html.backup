@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/shishirraven/animate-on-scroll@v1.2/animation_utility.css">
     <link rel="icon" type="image/x-icon" href="image/logo.png">
-    <title>Ninja Hive - About the Dojo</title>
+    <title>Ninja Hive - About Us</title>
 </head>
 
 <body>
@@ -69,8 +69,11 @@
                     </ul>
                     <div class="mb-xl-0 mb-3 d-flex flex-xl-row flex-column gap-3 w-max-content ps-xl-3"
                         style="justify-self: center;">
-                        <a href="https://focuspass.com" class="btn btn-accent accent d-flex flex-row gap-2 justify-content-center">
-                            <span>Access Your Hive</span>
+                        <a href="" class="btn btn-accent accent d-flex flex-row gap-2 justify-content-center">
+                            <span>Sign Up</span>
+                        </a>
+                        <a href="" class="btn btn-accent d-flex flex-row gap-2 justify-content-center">
+                            <span>Login</span>
                         </a>
                     </div>
                 </div>
@@ -87,11 +90,11 @@
                 <div class="row row-cols-xl-2 row-cols-1">
                     <div class="col col-xl-4 mb-3">
                         <div class="d-flex flex-column gap-3 pt-xl-5">
-                            <h2><span class="text-accent">About</span> the Dojo</h2>
+                            <h2><span class="text-accent">About</span> Us</h2>
                             <nav aria-label="breadcrumb">
                                 <ol class="breadcrumb">
                                     <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                                    <li class="breadcrumb-item active" aria-current="page">About the Dojo</li>
+                                    <li class="breadcrumb-item active" aria-current="page">About Us</li>
                                 </ol>
                             </nav>
                         </div>
@@ -107,7 +110,8 @@
         <div class="section">
             <div class="r-container">
                 <div class="d-flex flex-column gap-3 text-center align-items-center justify-content-center mx-auto">
-                    <h3><span class="text-accent">Built by Ninjas,</span> For Ninjas</h3>
+                    <h3><span class="text-accent">20K<sup class="text-accent">+</sup></span> Our graduates have worked in
+                    </h3>
                     <div class="marquee-container">
                         <div class="marquee-content">
                             <div class="marquee-item py-4 align-items-center">
@@ -592,9 +596,9 @@
                         <div class="d-flex flex-column gap-4">
                             <div class="d-flex flex-column gap-2">
                                 <h6 class="text-accent">About Ninja Hive</h6>
-                                <h3>Born from Developer Dojo</h3>
+                                <h3>Global Infrastructure for Modern Developers</h3>
                                 <p>
-                                    Ninja Hive was created to support Developer Dojo ninjas as they transition from training to building their first apps. Born from the Developer Dojo community at <a href="https://developerdojo.org" target="_blank">developerdojo.org</a>, it provides professional development tools exclusively for incubator participants. As part of the Focus Hive ecosystem, we're a community where budding developers collaborate, build together, and support each other's first projects.
+                                    Ninja Hive provides enterprise-grade cloud development infrastructure accessible to developers worldwide. Code, build, and deploy from anywhere with our distributed global labs and cutting-edge platform services.
                                 </p>
                             </div>
                             <div class="d-flex flex-column gap-5">
@@ -611,7 +615,11 @@
                                             <div id="faq1" class="accordion-collapse collapse"
                                                 data-bs-parent="#faqAccordion1">
                                                 <div class="accordion-body">
-                                                    Ninja Hive is an exclusive cloud platform created for Developer Dojo incubator participants. It provides professional development tools and infrastructure for ninjas working on their first apps. As part of the Focus Hive ecosystem, it's a community-driven platform where budding developers build, collaborate, and support each other.
+                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel
+                                                    erat
+                                                    nibh. Sed rutrum turpis quis lacinia sollicitudin. Sed ac neque
+                                                    cursus,
+                                                    ornare augue pellentesque, elementum turpis.
                                                 </div>
                                             </div>
                                         </div>
@@ -619,13 +627,15 @@
                                             <h2 class="accordion-header">
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#faq2" aria-expanded="false" aria-controls="faq2">
-                                                    How do I get access to Ninja Hive?
+                                                    Do I need prior coding experience to join the bootcamp?
                                                 </button>
                                             </h2>
                                             <div id="faq2" class="accordion-collapse collapse show"
                                                 data-bs-parent="#faqAccordion1">
                                                 <div class="accordion-body">
-                                                    Access to Ninja Hive is earned through participation in Developer Dojo incubator programs. After graduating from Developer Dojo and being accepted into a selective incubator, you receive access through your Focus Pass membership at focuspass.com.
+                                                    No, you do not need any prior coding experience. Our bootcamp is
+                                                    designed for beginners, and we start from the fundamentals to build
+                                                    a strong foundation.
                                                 </div>
                                             </div>
                                         </div>
@@ -634,13 +644,17 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#faq3"
                                                     aria-expanded="false" aria-controls="faq3">
-                                                    What tools are included in Ninja Hive?
+                                                    How do I access Ninja Hive services?
                                                 </button>
                                             </h2>
                                             <div id="faq3" class="accordion-collapse collapse"
                                                 data-bs-parent="#faqAccordion1">
                                                 <div class="accordion-body">
-                                                    Once you have your Focus Pass, you can access all Ninja Hive services including Code Dojo (cloud IDE), Virtual Dojo (virtual machines), ML Forge (machine learning platform), and collaborative workspaces. Visit focuspass.com to manage your access and explore all available tools.
+                                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel
+                                                    erat
+                                                    nibh. Sed rutrum turpis quis lacinia sollicitudin. Sed ac neque
+                                                    cursus,
+                                                    ornare augue pellentesque, elementum turpis.
                                                 </div>
                                             </div>
                                         </div>
@@ -666,9 +680,11 @@
                         <div class="d-flex flex-column gap-5">
                             <div class="d-flex flex-column gap-2">
                                 <h6 class="text-accent">How It Works?</h6>
-                                <h3>Your Path from Training to Building</h3>
+                                <h3>Your Path to a Tech Career Starts Here</h3>
                                 <p>
-                                    From Developer Dojo training to building your first app in the Hive, here's how ninjas earn their access and start creating.
+                                    Follow our structured learning process from selecting your course to landing your
+                                    dream
+                                    job with expert guidance and hands-on experience.
                                 </p>
                             </div>
                             <div class="d-flex flex-column gap-5 position-relative">
@@ -682,8 +698,8 @@
                                         </div>
                                     </div>
                                     <div class="d-flex flex-column text-xl-start text-center">
-                                        <h5>Graduate from Developer Dojo</h5>
-                                        <p class="accent-color-4">Complete cyber security training at <a href="https://developerdojo.org" target="_blank">developerdojo.org</a></p>
+                                        <h5>Choose a course</h5>
+                                        <p class="accent-color-4">Select the course that fits your career goals.</p>
                                     </div>
                                 </div>
                                 <div class="d-flex flex-xl-row flex-column gap-5 align-items-center">
@@ -708,8 +724,8 @@
                                         </div>
                                     </div>
                                     <div class="d-flex flex-column text-xl-start text-center">
-                                        <h5>Get Your Focus Pass</h5>
-                                        <p class="accent-color-4">Activate access to Ninja Hive and all Focus Hive tools at <a href="https://focuspass.com" target="_blank">focuspass.com</a></p>
+                                        <h5>Build real-world projects</h5>
+                                        <p class="accent-color-4">Apply your skills to practical projects.</p>
                                     </div>
                                 </div>
                             </div>
@@ -735,8 +751,8 @@
                             <div class="bg"></div>
                             <div class="blob"></div>
                             <div class="card-content">
-                                <h4>Your First App</h4>
-                                <p>Focus on building your first app with supportive community feedback and collaborative tools.
+                                <h4>Hands-On, Real World Projects</h4>
+                                <p>Build a strong portfolio with industry-relevant projects that showcase your skills.
                                 </p>
                             </div>
                         </div>
@@ -759,8 +775,9 @@
                             <div class="bg"></div>
                             <div class="blob"></div>
                             <div class="card-content">
-                                <h4>Community-Driven Platform</h4>
-                                <p>Built for ninjas working on their first apps, with collaborative tools and supportive community.</p>
+                                <h4>Job Guarantee or Money Back</h4>
+                                <p>Get 100% job placement support with our hiring partners or your money back,
+                                    guaranteed!</p>
                             </div>
                         </div>
                     </div>
@@ -768,7 +785,7 @@
                         <div class="d-flex flex-column gap-2 align-items-center justify-content-center mx-auto text-center h-100 scrollanimation animated zoomIn adr-7"
                             style="max-width: 500px;">
                             <h6 class="text-accent">Why Choose Ninja Hive?</h6>
-                            <h3>Professional Tools for First-Time Builders</h3>
+                            <h3>Enterprise Infrastructure for Every Developer</h3>
                         </div>
                     </div>
                     <div class="col col-xl-3 mb-3 scrollanimation animated fadeInRight adr-7">
@@ -776,8 +793,8 @@
                             <div class="bg"></div>
                             <div class="blob"></div>
                             <div class="card-content">
-                                <h4>Part of Focus Hive</h4>
-                                <p>Access all Focus Hive tools through your Focus Pass. Join vibe jams, collaborate with fellow ninjas, and build together.</p>
+                                <h4>Exclusive Access to Events</h4>
+                                <p>Get free access to workshops, events, and extra courses for students and alumni.</p>
                             </div>
                         </div>
                     </div>
@@ -812,14 +829,14 @@
         </div>
 
         <div class="section bg-attach-cover" style="background-image: url(image/bg_support.png);">
-            <!-- Section community support -->
+            <!-- Section Career Support -->
             <div class="r-container d-flex flex-column gap-5" style="padding-bottom: 6em;">
                 <div class="row row-cols-xl-2 row-cols-1 align-items-end">
                     <div class="col mb-3 scrollanimation animated fadeInLeft adr-7">
                         <div class="d-flex flex-column gap-5" style="max-width: 500px;">
                             <div class="d-flex flex-column gap-2 ">
-                                <h6 class="text-accent">Community First</h6>
-                                <h3>Built for Collaboration, Not Competition</h3>
+                                <h6 class="text-accent">Career Support</h6>
+                                <h3>Built for Collaboration</h3>
                             </div>
                         </div>
                     </div>
@@ -852,8 +869,9 @@
                                             d="M61,62.763a1.75,1.75,0,0,0-2.475,2.474l2.829,2.829a1.748,1.748,0,0,0,2.474,0l5.656-5.657a1.75,1.75,0,0,0-2.474-2.475l-4.419,4.42Z" />
                                     </g>
                                 </svg>
-                                <h4>Earned Access</h4>
-                                <p>Access is earned through Developer Dojo incubator participation, not purchased. Focus Pass provides entry to all Focus Hive tools.</p>
+                                <h4>Company Network</h4>
+                                <p>Choose a payment plan that works for you and start learning without financial
+                                    worries.</p>
                             </div>
                         </div>
                     </div>
@@ -876,8 +894,10 @@
                                             d="M64,5.25A58.75,58.75,0,1,0,122.75,64,58.816,58.816,0,0,0,64,5.25Zm0,114c-7.433,0-14.317-9.559-18.41-24.5H82.41C78.317,109.691,71.433,119.25,64,119.25Zm-19.294-28c-.7-2.994-1.286-6.167-1.752-9.5H85.045c-.465,3.333-1.055,6.506-1.751,9.5ZM8.794,65.75H24.25V76A5.757,5.757,0,0,0,30,81.75h9.425c.45,3.322,1.016,6.5,1.69,9.5H15.967A54.867,54.867,0,0,1,8.794,65.75ZM64,8.75c7.433,0,14.317,9.559,18.41,24.5H45.59C49.683,18.309,56.567,8.75,64,8.75Zm19.294,28c.7,2.994,1.286,6.167,1.751,9.5H42.954c.466-3.333,1.056-6.506,1.752-9.5ZM30,78.25A2.253,2.253,0,0,1,27.75,76V52A2.253,2.253,0,0,1,30,49.75H98A2.253,2.253,0,0,1,100.25,52V76A2.253,2.253,0,0,1,98,78.25Zm9.425-32H30A5.757,5.757,0,0,0,24.25,52V62.25H8.794a54.867,54.867,0,0,1,7.173-25.5H41.115C40.441,39.753,39.875,42.928,39.425,46.25Zm49.15,35.5H98A5.757,5.757,0,0,0,103.75,76V65.75h15.456a54.867,54.867,0,0,1-7.173,25.5H86.885C87.559,88.247,88.125,85.072,88.575,81.75Zm15.175-19.5V52A5.757,5.757,0,0,0,98,46.25H88.575c-.45-3.322-1.016-6.5-1.69-9.5h25.148a54.867,54.867,0,0,1,7.173,25.5Zm6.128-29H86.028C83.2,22.563,78.972,14.351,73.942,9.663A55.359,55.359,0,0,1,109.878,33.25ZM54.058,9.663c-5.03,4.688-9.262,12.9-12.086,23.587H18.122A55.359,55.359,0,0,1,54.058,9.663ZM18.122,94.75h23.85c2.824,10.687,7.056,18.9,12.086,23.587A55.359,55.359,0,0,1,18.122,94.75Zm55.82,23.587c5.03-4.688,9.262-12.9,12.086-23.587h23.85A55.359,55.359,0,0,1,73.942,118.337Z" />
                                     </g>
                                 </svg>
-                                <h4>Ninja Community</h4>
-                                <p>Join a supportive ninja community where you can collaborate, share knowledge, and work on projects together.</p>
+                                <h4>Alumni Community</h4>
+                                <p>Join a supportive alumni network where you can collaborate, share
+                                    experiences,
+                                    and find job opportunities.</p>
                             </div>
                         </div>
                     </div>
@@ -902,8 +922,10 @@
                                             d="M55.874,37.352a1.749,1.749,0,0,0-2.236,1.06l-8.572,24a1.75,1.75,0,0,0,1.06,2.236,1.731,1.731,0,0,0,.588.1,1.75,1.75,0,0,0,1.648-1.163l8.572-24A1.75,1.75,0,0,0,55.874,37.352Z" />
                                     </g>
                                 </svg>
-                                <h4>Vibe Jams & Events</h4>
-                                <p>Participate in collaborative coding sessions, vibe jams, and community events where ninjas build and learn together.</p>
+                                <h4>Access to Job Board</h4>
+                                <p>Get exclusive access to curated job openings and apply directly to positions
+                                    that
+                                    match your skills and expertise.</p>
                             </div>
                         </div>
                     </div>
@@ -914,8 +936,8 @@
             <div class="r-container d-flex flex-column gap-5 align-items-center" style="padding-block: 6em;">
                 <div class="d-flex flex-column gap-2 align-items-center justify-content-center mx-auto text-center scrollanimation animated fadeInDown adr-7"
                     style="max-width: 700px;">
-                    <h6 class="text-accent">Ninja Stories</h6>
-                    <h3>Building Together in the Hive</h3>
+                    <h6 class="text-accent">Success Stories</h6>
+                    <h3>Our Alumni's Success Stories</h3>
                     <p>
                         Hear from developers worldwide who are building, learning, and growing with Ninja Hive's global infrastructure and collaborative platform.
                     </p>
@@ -933,7 +955,9 @@
                                 <div class="bg"></div>
                                 <div class="blob"></div>
                                 <div class="card-content text-start">
-                                    <p>Building my first app in the Hive with fellow ninjas has been incredible. The community is supportive, the tools are powerful yet approachable, and I'm making real progress on my project.
+                                    <p>Ninja Hive offers high-quality training that significantly enhanced my skills. The
+                                        knowledge I gained was invaluable, and the conducive classroom atmosphere truly
+                                        supported my learning process.
                                     </p>
                                     <div class="d-flex flex-xl-row flex-column gap-3 align-items-center">
                                         <div class="customer-item">
@@ -943,8 +967,8 @@
                                         <div class="vr"></div>
 
                                         <div class="d-flex flex-column">
-                                            <h5 class="m-0 team-name">Ninja K.</h5>
-                                            <span class="font-2">Incubator Participant</span>
+                                            <h5 class="m-0 team-name">Lucas Moore</h5>
+                                            <span class="font-2">Web Developer</span>
                                         </div>
                                     </div>
                                 </div>
@@ -963,9 +987,9 @@
                                 <div class="bg"></div>
                                 <div class="blob"></div>
                                 <div class="card-content text-start">
-                                    <p>I am very happy with my building experience at Ninja Hive. I gained a lot of
-                                        fellow ninjas for support has been game-changing. The
-                                        community space environment made me feel comfortable and motivated to learn.
+                                    <p>I am very happy with my learning experience at Ninja Hive. I gained a lot of
+                                        programming and soft skills from the experienced trainers. The conducive
+                                        classroom environment made me feel comfortable and motivated to learn.
                                     </p>
                                     <div class="d-flex flex-xl-row flex-column gap-3 align-items-center">
                                         <div class="customer-item">
@@ -995,7 +1019,11 @@
                                 <div class="bg"></div>
                                 <div class="blob"></div>
                                 <div class="card-content text-start">
-                                    <p>The Hive makes building accessible. I'm working on my first app and learning alongside other ninjas. The collaborative environment and anonymity let me focus on creating without pressure.
+                                    <p>Ninja Hive offers excellent programming training. I also learned many soft skills
+                                        from the professional trainers. The comfortable classroom environment really
+                                        supported my learning process.ledge I gained was invaluable, and the conducive
+                                        classroom atmosphere truly
+                                        supported my learning process.
                                     </p>
                                     <div class="d-flex flex-xl-row flex-column gap-3 align-items-center">
                                         <div class="customer-item">
@@ -1005,8 +1033,8 @@
                                         <div class="vr"></div>
 
                                         <div class="d-flex flex-column">
-                                            <h5 class="m-0 team-name">Ninja D.</h5>
-                                            <span class="font-2">Building First App</span>
+                                            <h5 class="m-0 team-name">Daniel Johnson</h5>
+                                            <span class="font-2">Frontend Developer</span>
                                         </div>
                                     </div>
                                 </div>
@@ -1025,7 +1053,9 @@
                                 <div class="bg"></div>
                                 <div class="blob"></div>
                                 <div class="card-content text-start">
-                                    <p>The Hive makes building accessible. I'm working on my first app and learning alongside other ninjas. The collaborative environment and anonymity let me focus on creating without pressure.
+                                    <p>My learning experience at Ninja Hive was truly amazing. I not only gained programming
+                                        knowledge but also valuable soft skills from expert trainers. The conducive
+                                        classroom environment made learning more enjoyable.
                                     </p>
                                     <div class="d-flex flex-xl-row flex-column gap-3 align-items-center">
                                         <div class="customer-item">
@@ -1035,8 +1065,8 @@
                                         <div class="vr"></div>
 
                                         <div class="d-flex flex-column">
-                                            <h5 class="m-0 team-name">Ninja D.</h5>
-                                            <span class="font-2">Incubator Participant</span>
+                                            <h5 class="m-0 team-name">Daniel Martinez</h5>
+                                            <span class="font-2">Full Stack Developer</span>
                                         </div>
                                     </div>
                                 </div>
@@ -1055,8 +1085,8 @@
                                 <div class="bg"></div>
                                 <div class="blob"></div>
                                 <div class="card-content text-start">
-                                    <p>Ninja Hive gives me the tools I need without the complexity. Working on my first app with
-                                        professional Master Ninjas and comfortable community environment really motivated me
+                                    <p>At Ninja Hive, I can learn both programming and soft skills at the same time. The
+                                        professional trainers and comfortable classroom atmosphere really motivated me
                                         to keep learning and growing.
                                     </p>
                                     <div class="d-flex flex-xl-row flex-column gap-3 align-items-center">
@@ -1067,8 +1097,8 @@
                                         <div class="vr"></div>
 
                                         <div class="d-flex flex-column">
-                                            <h5 class="m-0 team-name">Ninja M.</h5>
-                                            <span class="font-2">Focus Hive Ninja</span>
+                                            <h5 class="m-0 team-name">Michael Brown</h5>
+                                            <span class="font-2">Backend Developer</span>
                                         </div>
                                     </div>
                                 </div>
@@ -1088,7 +1118,7 @@
                                 <div class="blob"></div>
                                 <div class="card-content text-start">
                                     <p>The learning process at Ninja Hive was truly outstanding. I felt supported by the
-                                        lessons provided by the expert Master Ninjas. The comfortable community environment
+                                        lessons provided by the expert trainers. The comfortable classroom atmosphere
                                         made me even more motivated to continue developing.
                                     </p>
                                     <div class="d-flex flex-xl-row flex-column gap-3 align-items-center">
@@ -1099,7 +1129,7 @@
                                         <div class="vr"></div>
 
                                         <div class="d-flex flex-column">
-                                            <h5 class="m-0 team-name">Ninja O.</h5>
+                                            <h5 class="m-0 team-name">Olivia Garcia</h5>
                                             <span class="font-2">Mobile App Developer</span>
                                         </div>
                                     </div>
@@ -1110,13 +1140,13 @@
                 </div>
             </div>
 
-            <!-- Section Meet the Master Ninjas -->
+            <!-- Section Meet the Mentors -->
             <div class="r-container d-flex flex-column gap-5" style="padding-block: 6em;">
                 <div class="row row-cols-xl-2 row-cols-1 align-items-end">
                     <div class="col col-xl-5 mb-3 scrollanimation animated fadeInLeft adr-7">
                         <div class="d-flex flex-column gap-2">
                             <h6 class="text-accent">Community Leaders</h6>
-                            <h3>Master Ninjas and Community Leaders</h3>
+                            <h3>Meet the Ninjas Supporting Your Journey</h3>
                         </div>
                     </div>
                     <div class="col col-xl-7 mb-3 scrollanimation animated fadeInDown adr-7">
@@ -1265,7 +1295,7 @@
         <div class="section">
             <div class="r-container">
                 <div class="d-flex flex-column gap-3 text-white text-center justify-content-center align-items-center mx-auto scrollanimation animated zoomIn">
-                    <h3>Ready to Join the Hive?</h3>
+                    <h3>Ready to Start Coding Your Future?</h3>
                     <p>
                         Join a community of aspiring developers and start your journey in tech. Let’s build something
                         amazing together!
@@ -1273,7 +1303,7 @@
                     <div class="w-max-content">
                         <a href="contact.html"
                             class="btn btn-accent d-flex flex-row gap-2 justify-content-center">
-                            <span>Learn About Access</span>
+                            <span>Get In Touch</span>
                         </a>
                     </div>
                 </div>
@@ -1320,7 +1350,7 @@
                                         </li>
                                         <li>
                                             <a href="" class="link d-flex flex-row gap-3 align-items-center">
-                                                Master Ninjas
+                                                Mentors
                                             </a>
                                         </li>
                                         <li>
@@ -1352,12 +1382,6 @@
                                         <a href="https://www.linkedin.com" class="read-more">
                                             Linkedin
                                         </a>
-                                        <a href="https://developerdojo.org" class="read-more">
-                                            Developer Dojo
-                                        </a>
-                                        <a href="https://focuspass.com" class="read-more">
-                                            Focus Pass
-                                        </a>
                                     </div>
                                 </div>
                             </div>
@@ -1370,7 +1394,7 @@
                         <div class="d-flex flex-column gap-5">
                             <img src="image/logo.png" alt="" class="img-fluid" width="350" style="align-self: end;">
                             <div class="d-flex flex-column gap-4 p-5 bg-accent shadow-accent me-xl-5">
-                                <h4>Already a Ninja? Questions About Access?</h4>
+                                <h4>Join Ninja Hive Today!</h4>
                                 <div class="toast-container position-fixed bottom-0 end-0 p-3">
                                     <div id="liveToastAppointment"
                                         class="toast success_msg_appointment bg-dark-transparent text-white"
@@ -1412,9 +1436,9 @@
                                         </div>
                                     </div>
                                     <div class="mb-4">
-                                        <select name="service_interest" id="service_interest" class="form-control form-select py-3 px-4"
+                                        <select name="bootcamp" id="bootcamp" class="form-control form-select py-3 px-4"
                                             required>
-                                            <option value="" selected>Which service interests you?</option>
+                                            <option value="" selected>Select Platform Service</option>
                                             <option value="code-dojo">Code Dojo (Cloud IDE)</option>
                                             <option value="virtual-dojo">Virtual Dojo (VMs)</option>
                                             <option value="ml-forge">ML Forge (ML Platform)</option>
@@ -1440,7 +1464,7 @@
                                     <div>
                                         <button type="submit"
                                             class="btn btn-accent submit_appointment d-flex justify-content-center gap-2 rounded-4">
-                                            <span>Send Message</span>
+                                            <span>Register</span>
                                         </button>
                                     </div>
                                 </form>
